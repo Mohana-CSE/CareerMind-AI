@@ -1,0 +1,2435 @@
+{
+  "skill_gaps": [
+    {
+      "user_id": "guest-user",
+      "role_id": "java-fullstack",
+      "role_title": "Java Full Stack Developer",
+      "total_required": 12,
+      "matched_count": 7,
+      "missing_count": 5,
+      "match_percentage": 58.3,
+      "matched_skills": [
+        {
+          "skill_name": "Java",
+          "user_skill_matched": "Java",
+          "similarity_score": 1.0,
+          "status": "matched",
+          "priority": "High",
+          "category": "Programming Language",
+          "reason": "Exact match for required capability 'Java'."
+        },
+        {
+          "skill_name": "Spring Boot",
+          "user_skill_matched": "RESTful services using Spring Framework",
+          "similarity_score": 0.95,
+          "status": "matched",
+          "priority": "High",
+          "category": "Backend Framework",
+          "reason": "Recognized 'RESTful services using Spring Framework' as semantically equivalent to 'Spring Boot' based on tech taxonomy."
+        },
+        {
+          "skill_name": "REST APIs",
+          "user_skill_matched": "RESTful services using Spring Framework",
+          "similarity_score": 0.95,
+          "status": "matched",
+          "priority": "High",
+          "category": "API Architecture",
+          "reason": "Recognized 'RESTful services using Spring Framework' as semantically equivalent to 'REST APIs' based on tech taxonomy."
+        },
+        {
+          "skill_name": "SQL",
+          "user_skill_matched": "SQL",
+          "similarity_score": 1.0,
+          "status": "matched",
+          "priority": "High",
+          "category": "Database",
+          "reason": "Exact match for required capability 'SQL'."
+        },
+        {
+          "skill_name": "React",
+          "user_skill_matched": "React",
+          "similarity_score": 1.0,
+          "status": "matched",
+          "priority": "High",
+          "category": "Frontend Framework",
+          "reason": "Exact match for required capability 'React'."
+        },
+        {
+          "skill_name": "JavaScript",
+          "user_skill_matched": "JavaScript",
+          "similarity_score": 1.0,
+          "status": "matched",
+          "priority": "High",
+          "category": "Programming Language",
+          "reason": "Exact match for required capability 'JavaScript'."
+        },
+        {
+          "skill_name": "Git",
+          "user_skill_matched": "Git",
+          "similarity_score": 1.0,
+          "status": "matched",
+          "priority": "High",
+          "category": "Version Control",
+          "reason": "Exact match for required capability 'Git'."
+        }
+      ],
+      "missing_skills": [
+        {
+          "skill_name": "Hibernate/JPA",
+          "user_skill_matched": null,
+          "similarity_score": 0.0,
+          "status": "missing",
+          "priority": "Medium",
+          "category": "ORM & Data Access",
+          "reason": "Abstracts relational SQL interactions into object-oriented Java entities seamlessly."
+        },
+        {
+          "skill_name": "Microservices",
+          "user_skill_matched": null,
+          "similarity_score": 0.0,
+          "status": "missing",
+          "priority": "Medium",
+          "category": "System Architecture",
+          "reason": "Enables modular, independently scalable, and fault-tolerant organizational software systems."
+        },
+        {
+          "skill_name": "Docker",
+          "user_skill_matched": null,
+          "similarity_score": 0.0,
+          "status": "missing",
+          "priority": "High",
+          "category": "DevOps & Containers",
+          "reason": "Ensures reproducible environments across development, testing, and cloud deployments."
+        },
+        {
+          "skill_name": "Maven/Gradle",
+          "user_skill_matched": null,
+          "similarity_score": 0.0,
+          "status": "missing",
+          "priority": "Medium",
+          "category": "Technical Skill",
+          "reason": "Crucial component for success in Java Full Stack Developer."
+        },
+        {
+          "skill_name": "Unit Testing (JUnit)",
+          "user_skill_matched": null,
+          "similarity_score": 0.0,
+          "status": "missing",
+          "priority": "Medium",
+          "category": "Technical Skill",
+          "reason": "Crucial component for success in Java Full Stack Developer."
+        }
+      ],
+      "current_skills": [
+        "Java",
+        "JavaScript",
+        "SQL",
+        "React",
+        "RESTful services using Spring Framework",
+        "Git",
+        "HTML5 & CSS3"
+      ],
+      "high_priority_missing": [
+        "Docker"
+      ],
+      "_id": "f32fbc45-c40d-4c85-916c-6a28903aefa4"
+    },
+    {
+      "user_id": "guest-user",
+      "role_id": "backend-python",
+      "role_title": "Python Backend & API Engineer",
+      "total_required": 12,
+      "matched_count": 3,
+      "missing_count": 9,
+      "match_percentage": 25.0,
+      "matched_skills": [
+        {
+          "skill_name": "RESTful APIs",
+          "user_skill_matched": "RESTful services using Spring Framework",
+          "similarity_score": 0.95,
+          "status": "matched",
+          "priority": "Medium",
+          "category": "Technical Skill",
+          "reason": "Recognized 'RESTful services using Spring Framework' as semantically equivalent to 'RESTful APIs' based on tech taxonomy."
+        },
+        {
+          "skill_name": "PostgreSQL",
+          "user_skill_matched": "SQL",
+          "similarity_score": 0.95,
+          "status": "matched",
+          "priority": "High",
+          "category": "Database",
+          "reason": "Recognized 'SQL' as semantically equivalent to 'PostgreSQL' based on tech taxonomy."
+        },
+        {
+          "skill_name": "Git",
+          "user_skill_matched": "Git",
+          "similarity_score": 1.0,
+          "status": "matched",
+          "priority": "High",
+          "category": "Version Control",
+          "reason": "Exact match for required capability 'Git'."
+        }
+      ],
+      "missing_skills": [
+        {
+          "skill_name": "Python",
+          "user_skill_matched": null,
+          "similarity_score": 0.0,
+          "status": "missing",
+          "priority": "High",
+          "category": "Programming Language",
+          "reason": "Premier language for AI/ML, data pipelines, backend APIs, and automation scripts."
+        },
+        {
+          "skill_name": "FastAPI",
+          "user_skill_matched": null,
+          "similarity_score": 0.0,
+          "status": "missing",
+          "priority": "High",
+          "category": "Backend Framework",
+          "reason": "Modern, lightning-fast asynchronous Python web framework with automated OpenAPI docs."
+        },
+        {
+          "skill_name": "Django / Flask",
+          "user_skill_matched": null,
+          "similarity_score": 0.0,
+          "status": "missing",
+          "priority": "High",
+          "category": "Technical Skill",
+          "reason": "Crucial component for success in Python Backend & API Engineer."
+        },
+        {
+          "skill_name": "MongoDB",
+          "user_skill_matched": null,
+          "similarity_score": 0.0,
+          "status": "missing",
+          "priority": "Medium",
+          "category": "Database",
+          "reason": "Popular flexible NoSQL document database suited for dynamic JSON schema payloads."
+        },
+        {
+          "skill_name": "Redis",
+          "user_skill_matched": null,
+          "similarity_score": 0.0,
+          "status": "missing",
+          "priority": "Medium",
+          "category": "Technical Skill",
+          "reason": "Crucial component for success in Python Backend & API Engineer."
+        },
+        {
+          "skill_name": "Docker",
+          "user_skill_matched": null,
+          "similarity_score": 0.0,
+          "status": "missing",
+          "priority": "High",
+          "category": "DevOps & Containers",
+          "reason": "Ensures reproducible environments across development, testing, and cloud deployments."
+        },
+        {
+          "skill_name": "Asynchronous Programming (asyncio)",
+          "user_skill_matched": null,
+          "similarity_score": 0.0,
+          "status": "missing",
+          "priority": "Medium",
+          "category": "Technical Skill",
+          "reason": "Crucial component for success in Python Backend & API Engineer."
+        },
+        {
+          "skill_name": "Celery / Message Queues",
+          "user_skill_matched": null,
+          "similarity_score": 0.0,
+          "status": "missing",
+          "priority": "Medium",
+          "category": "Technical Skill",
+          "reason": "Crucial component for success in Python Backend & API Engineer."
+        },
+        {
+          "skill_name": "PyTest & TDD",
+          "user_skill_matched": null,
+          "similarity_score": 0.0,
+          "status": "missing",
+          "priority": "Medium",
+          "category": "Technical Skill",
+          "reason": "Crucial component for success in Python Backend & API Engineer."
+        }
+      ],
+      "current_skills": [
+        "Java",
+        "JavaScript",
+        "SQL",
+        "React",
+        "RESTful services using Spring Framework",
+        "Git",
+        "HTML5 & CSS3"
+      ],
+      "high_priority_missing": [
+        "Python",
+        "FastAPI",
+        "Django / Flask",
+        "Docker"
+      ],
+      "_id": "43f42bc4-062a-4bdc-bf35-68c7ffad3e57"
+    },
+    {
+      "user_id": "f9b5838d-2d76-4497-b268-f300a6a1418a",
+      "role_id": "java-fullstack",
+      "role_title": "Java Full Stack Developer",
+      "total_required": 12,
+      "matched_count": 7,
+      "missing_count": 5,
+      "match_percentage": 54.2,
+      "matched_skills": [
+        {
+          "skill_name": "Java",
+          "user_skill_matched": "Java",
+          "similarity_score": 1.0,
+          "status": "matched",
+          "priority": "High",
+          "category": "Programming Language",
+          "reason": "Exact match for required capability 'Java'."
+        },
+        {
+          "skill_name": "Spring Boot",
+          "user_skill_matched": "Java",
+          "similarity_score": 0.55,
+          "status": "partial",
+          "priority": "High",
+          "category": "Backend Framework",
+          "reason": "Partial capability: Candidate has prerequisite capability 'Java' related to 'Spring Boot'.. Needs focused practice to achieve production level."
+        },
+        {
+          "skill_name": "React",
+          "user_skill_matched": "C",
+          "similarity_score": 0.8,
+          "status": "matched",
+          "priority": "High",
+          "category": "Frontend Framework",
+          "reason": "'C' satisfies requirements for 'React'."
+        },
+        {
+          "skill_name": "JavaScript",
+          "user_skill_matched": "C",
+          "similarity_score": 0.8,
+          "status": "matched",
+          "priority": "High",
+          "category": "Programming Language",
+          "reason": "'C' satisfies requirements for 'JavaScript'."
+        },
+        {
+          "skill_name": "Git",
+          "user_skill_matched": "Git",
+          "similarity_score": 1.0,
+          "status": "matched",
+          "priority": "High",
+          "category": "Version Control",
+          "reason": "Exact match for required capability 'Git'."
+        },
+        {
+          "skill_name": "Microservices",
+          "user_skill_matched": "C",
+          "similarity_score": 0.8,
+          "status": "matched",
+          "priority": "Medium",
+          "category": "System Architecture",
+          "reason": "'C' satisfies requirements for 'Microservices'."
+        },
+        {
+          "skill_name": "Docker",
+          "user_skill_matched": "C",
+          "similarity_score": 0.8,
+          "status": "matched",
+          "priority": "High",
+          "category": "DevOps & Containers",
+          "reason": "'C' satisfies requirements for 'Docker'."
+        }
+      ],
+      "missing_skills": [
+        {
+          "skill_name": "REST APIs",
+          "user_skill_matched": null,
+          "similarity_score": 0.0,
+          "status": "missing",
+          "priority": "High",
+          "category": "API Architecture",
+          "reason": "Crucial standard protocol for frontend-backend communication and microservices integration."
+        },
+        {
+          "skill_name": "SQL",
+          "user_skill_matched": null,
+          "similarity_score": 0.0,
+          "status": "missing",
+          "priority": "High",
+          "category": "Database",
+          "reason": "Core standard for querying, persisting, and managing relational business data."
+        },
+        {
+          "skill_name": "Hibernate/JPA",
+          "user_skill_matched": null,
+          "similarity_score": 0.0,
+          "status": "missing",
+          "priority": "Medium",
+          "category": "ORM & Data Access",
+          "reason": "Abstracts relational SQL interactions into object-oriented Java entities seamlessly."
+        },
+        {
+          "skill_name": "Maven/Gradle",
+          "user_skill_matched": null,
+          "similarity_score": 0.0,
+          "status": "missing",
+          "priority": "Medium",
+          "category": "Technical Skill",
+          "reason": "Crucial component for success in Java Full Stack Developer."
+        },
+        {
+          "skill_name": "Unit Testing (JUnit)",
+          "user_skill_matched": null,
+          "similarity_score": 0.0,
+          "status": "missing",
+          "priority": "Medium",
+          "category": "Technical Skill",
+          "reason": "Crucial component for success in Java Full Stack Developer."
+        }
+      ],
+      "current_skills": [
+        "C",
+        "CSS",
+        "Git",
+        "GitHub",
+        "HTML",
+        "HTML5 & CSS3",
+        "Java"
+      ],
+      "high_priority_missing": [
+        "REST APIs",
+        "SQL"
+      ],
+      "_id": "d084b149-1cb5-41dd-b4d6-a1ea9b379f32"
+    }
+  ],
+  "roadmaps": [
+    {
+      "user_id": "guest-user",
+      "role_title": "Python Backend & API Engineer",
+      "id": "731fcbb7-fe59-41d8-9545-75567c18d0ac",
+      "milestones": [
+        {
+          "id": "milestone-phase-1",
+          "phase_number": 1,
+          "title": "Phase 1: Mastering Python for Python Backend & API Engineer",
+          "skill_focus": "Python",
+          "priority": "High",
+          "description": "Understand core principles, industry conventions, and practical implementation of Python.",
+          "estimated_days": 7,
+          "practice_tasks": [
+            {
+              "id": "task-p1-1",
+              "title": "Study Python Fundamentals and Syntax",
+              "type": "reading",
+              "difficulty": "Easy",
+              "description": "Read core chapters and understand fundamental building blocks of Python.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Python Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Python+official+docs"
+                },
+                {
+                  "title": "Python Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/python"
+                }
+              ]
+            },
+            {
+              "id": "task-p1-2",
+              "title": "Build a hands-on Python mini-project",
+              "type": "coding",
+              "difficulty": "Medium",
+              "description": "Create a working standalone demo utilizing Python.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Python Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Python+official+docs"
+                },
+                {
+                  "title": "Python Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/python"
+                }
+              ]
+            },
+            {
+              "id": "task-p1-3",
+              "title": "Review Python common interview questions",
+              "type": "interview",
+              "difficulty": "Medium",
+              "description": "Prepare for top 10 technical questions asked in Python Backend & API Engineer interviews.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Python Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Python+official+docs"
+                },
+                {
+                  "title": "Python Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/python"
+                }
+              ]
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        },
+        {
+          "id": "milestone-phase-2",
+          "phase_number": 2,
+          "title": "Phase 2: High-Performance Asynchronous Python APIs with FastAPI",
+          "skill_focus": "FastAPI",
+          "priority": "High",
+          "description": "Leverage Python type hinting, Pydantic data schemas, and async/await for modern backend APIs.",
+          "estimated_days": 7,
+          "practice_tasks": [
+            {
+              "id": "task-p2-1",
+              "title": "Build Asynchronous Endpoints with Dependency Injection",
+              "type": "coding",
+              "difficulty": "Medium",
+              "description": "Use Depends() for database sessions, authentication, and request logging.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "FastAPI Official Documentation",
+                  "type": "documentation",
+                  "url": "https://fastapi.tiangolo.com"
+                },
+                {
+                  "title": "Pydantic Documentation",
+                  "type": "documentation",
+                  "url": "https://docs.pydantic.dev"
+                }
+              ]
+            },
+            {
+              "id": "task-p2-2",
+              "title": "Implement Background Tasks and File Processing",
+              "type": "coding",
+              "difficulty": "Medium",
+              "description": "Handle async file uploads and long-running background tasks safely.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "FastAPI Official Documentation",
+                  "type": "documentation",
+                  "url": "https://fastapi.tiangolo.com"
+                },
+                {
+                  "title": "Pydantic Documentation",
+                  "type": "documentation",
+                  "url": "https://docs.pydantic.dev"
+                }
+              ]
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        },
+        {
+          "id": "milestone-phase-3",
+          "phase_number": 3,
+          "title": "Phase 3: Mastering Django / Flask for Python Backend & API Engineer",
+          "skill_focus": "Django / Flask",
+          "priority": "High",
+          "description": "Understand core principles, industry conventions, and practical implementation of Django / Flask.",
+          "estimated_days": 7,
+          "practice_tasks": [
+            {
+              "id": "task-p3-1",
+              "title": "Study Django / Flask Fundamentals and Syntax",
+              "type": "reading",
+              "difficulty": "Easy",
+              "description": "Read core chapters and understand fundamental building blocks of Django / Flask.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Django / Flask Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Django / Flask+official+docs"
+                },
+                {
+                  "title": "Django / Flask Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/django/flask"
+                }
+              ]
+            },
+            {
+              "id": "task-p3-2",
+              "title": "Build a hands-on Django / Flask mini-project",
+              "type": "coding",
+              "difficulty": "Medium",
+              "description": "Create a working standalone demo utilizing Django / Flask.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Django / Flask Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Django / Flask+official+docs"
+                },
+                {
+                  "title": "Django / Flask Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/django/flask"
+                }
+              ]
+            },
+            {
+              "id": "task-p3-3",
+              "title": "Review Django / Flask common interview questions",
+              "type": "interview",
+              "difficulty": "Medium",
+              "description": "Prepare for top 10 technical questions asked in Python Backend & API Engineer interviews.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Django / Flask Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Django / Flask+official+docs"
+                },
+                {
+                  "title": "Django / Flask Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/django/flask"
+                }
+              ]
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        },
+        {
+          "id": "milestone-phase-4",
+          "phase_number": 4,
+          "title": "Phase 4: Mastering RESTful APIs for Python Backend & API Engineer",
+          "skill_focus": "RESTful APIs",
+          "priority": "High",
+          "description": "Understand core principles, industry conventions, and practical implementation of RESTful APIs.",
+          "estimated_days": 7,
+          "practice_tasks": [
+            {
+              "id": "task-p4-1",
+              "title": "Study RESTful APIs Fundamentals and Syntax",
+              "type": "reading",
+              "difficulty": "Easy",
+              "description": "Read core chapters and understand fundamental building blocks of RESTful APIs.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "RESTful APIs Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=RESTful APIs+official+docs"
+                },
+                {
+                  "title": "RESTful APIs Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/restfulapis"
+                }
+              ]
+            },
+            {
+              "id": "task-p4-2",
+              "title": "Build a hands-on RESTful APIs mini-project",
+              "type": "coding",
+              "difficulty": "Medium",
+              "description": "Create a working standalone demo utilizing RESTful APIs.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "RESTful APIs Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=RESTful APIs+official+docs"
+                },
+                {
+                  "title": "RESTful APIs Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/restfulapis"
+                }
+              ]
+            },
+            {
+              "id": "task-p4-3",
+              "title": "Review RESTful APIs common interview questions",
+              "type": "interview",
+              "difficulty": "Medium",
+              "description": "Prepare for top 10 technical questions asked in Python Backend & API Engineer interviews.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "RESTful APIs Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=RESTful APIs+official+docs"
+                },
+                {
+                  "title": "RESTful APIs Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/restfulapis"
+                }
+              ]
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        },
+        {
+          "id": "milestone-phase-5",
+          "phase_number": 5,
+          "title": "Phase 5: Containerization with Docker & Multi-Stage Builds",
+          "skill_focus": "Docker",
+          "priority": "High",
+          "description": "Containerize backend and frontend services for clean local reproduction and cloud deployments.",
+          "estimated_days": 7,
+          "practice_tasks": [
+            {
+              "id": "task-p5-1",
+              "title": "Write a multi-stage Dockerfile for your application",
+              "type": "coding",
+              "difficulty": "Medium",
+              "description": "Build an optimized small container image (under 150MB) using alpine base.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Docker Getting Started Guide",
+                  "type": "documentation",
+                  "url": "https://docs.docker.com/get-started"
+                },
+                {
+                  "title": "Docker Crash Course",
+                  "type": "video",
+                  "url": "https://www.youtube.com/watch?v=fqMOX6JJhGo"
+                }
+              ]
+            },
+            {
+              "id": "task-p5-2",
+              "title": "Configure multi-container orchestration with Docker Compose",
+              "type": "project",
+              "difficulty": "Medium",
+              "description": "Run API server, database (Postgres/Mongo), and Redis together with one command.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Docker Getting Started Guide",
+                  "type": "documentation",
+                  "url": "https://docs.docker.com/get-started"
+                },
+                {
+                  "title": "Docker Crash Course",
+                  "type": "video",
+                  "url": "https://www.youtube.com/watch?v=fqMOX6JJhGo"
+                }
+              ]
+            },
+            {
+              "id": "task-p5-3",
+              "title": "Docker Container vs Virtual Machine Interview Prep",
+              "type": "interview",
+              "difficulty": "Easy",
+              "description": "Clarify namespaces, cgroups, kernel sharing, and layer caching.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Docker Getting Started Guide",
+                  "type": "documentation",
+                  "url": "https://docs.docker.com/get-started"
+                },
+                {
+                  "title": "Docker Crash Course",
+                  "type": "video",
+                  "url": "https://www.youtube.com/watch?v=fqMOX6JJhGo"
+                }
+              ]
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        },
+        {
+          "id": "milestone-phase-6",
+          "phase_number": 6,
+          "title": "Phase 6: Mastering Git for Python Backend & API Engineer",
+          "skill_focus": "Git",
+          "priority": "High",
+          "description": "Understand core principles, industry conventions, and practical implementation of Git.",
+          "estimated_days": 7,
+          "practice_tasks": [
+            {
+              "id": "task-p6-1",
+              "title": "Study Git Fundamentals and Syntax",
+              "type": "reading",
+              "difficulty": "Easy",
+              "description": "Read core chapters and understand fundamental building blocks of Git.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Git Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Git+official+docs"
+                },
+                {
+                  "title": "Git Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/git"
+                }
+              ]
+            },
+            {
+              "id": "task-p6-2",
+              "title": "Build a hands-on Git mini-project",
+              "type": "coding",
+              "difficulty": "Medium",
+              "description": "Create a working standalone demo utilizing Git.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Git Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Git+official+docs"
+                },
+                {
+                  "title": "Git Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/git"
+                }
+              ]
+            },
+            {
+              "id": "task-p6-3",
+              "title": "Review Git common interview questions",
+              "type": "interview",
+              "difficulty": "Medium",
+              "description": "Prepare for top 10 technical questions asked in Python Backend & API Engineer interviews.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Git Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Git+official+docs"
+                },
+                {
+                  "title": "Git Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/git"
+                }
+              ]
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        },
+        {
+          "id": "milestone-phase-7",
+          "phase_number": 7,
+          "title": "Phase 7: Mastering MongoDB for Python Backend & API Engineer",
+          "skill_focus": "MongoDB",
+          "priority": "Medium",
+          "description": "Understand core principles, industry conventions, and practical implementation of MongoDB.",
+          "estimated_days": 5,
+          "practice_tasks": [
+            {
+              "id": "task-p7-1",
+              "title": "Study MongoDB Fundamentals and Syntax",
+              "type": "reading",
+              "difficulty": "Easy",
+              "description": "Read core chapters and understand fundamental building blocks of MongoDB.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "MongoDB Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=MongoDB+official+docs"
+                },
+                {
+                  "title": "MongoDB Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/mongodb"
+                }
+              ]
+            },
+            {
+              "id": "task-p7-2",
+              "title": "Build a hands-on MongoDB mini-project",
+              "type": "coding",
+              "difficulty": "Medium",
+              "description": "Create a working standalone demo utilizing MongoDB.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "MongoDB Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=MongoDB+official+docs"
+                },
+                {
+                  "title": "MongoDB Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/mongodb"
+                }
+              ]
+            },
+            {
+              "id": "task-p7-3",
+              "title": "Review MongoDB common interview questions",
+              "type": "interview",
+              "difficulty": "Medium",
+              "description": "Prepare for top 10 technical questions asked in Python Backend & API Engineer interviews.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "MongoDB Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=MongoDB+official+docs"
+                },
+                {
+                  "title": "MongoDB Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/mongodb"
+                }
+              ]
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        },
+        {
+          "id": "milestone-phase-8",
+          "phase_number": 8,
+          "title": "Phase 8: Mastering Redis for Python Backend & API Engineer",
+          "skill_focus": "Redis",
+          "priority": "Medium",
+          "description": "Understand core principles, industry conventions, and practical implementation of Redis.",
+          "estimated_days": 5,
+          "practice_tasks": [
+            {
+              "id": "task-p8-1",
+              "title": "Study Redis Fundamentals and Syntax",
+              "type": "reading",
+              "difficulty": "Easy",
+              "description": "Read core chapters and understand fundamental building blocks of Redis.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Redis Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Redis+official+docs"
+                },
+                {
+                  "title": "Redis Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/redis"
+                }
+              ]
+            },
+            {
+              "id": "task-p8-2",
+              "title": "Build a hands-on Redis mini-project",
+              "type": "coding",
+              "difficulty": "Medium",
+              "description": "Create a working standalone demo utilizing Redis.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Redis Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Redis+official+docs"
+                },
+                {
+                  "title": "Redis Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/redis"
+                }
+              ]
+            },
+            {
+              "id": "task-p8-3",
+              "title": "Review Redis common interview questions",
+              "type": "interview",
+              "difficulty": "Medium",
+              "description": "Prepare for top 10 technical questions asked in Python Backend & API Engineer interviews.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Redis Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Redis+official+docs"
+                },
+                {
+                  "title": "Redis Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/redis"
+                }
+              ]
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        },
+        {
+          "id": "milestone-phase-9",
+          "phase_number": 9,
+          "title": "Phase 9: Mastering Asynchronous Programming (asyncio) for Python Backend & API Engineer",
+          "skill_focus": "Asynchronous Programming (asyncio)",
+          "priority": "Medium",
+          "description": "Understand core principles, industry conventions, and practical implementation of Asynchronous Programming (asyncio).",
+          "estimated_days": 5,
+          "practice_tasks": [
+            {
+              "id": "task-p9-1",
+              "title": "Study Asynchronous Programming (asyncio) Fundamentals and Syntax",
+              "type": "reading",
+              "difficulty": "Easy",
+              "description": "Read core chapters and understand fundamental building blocks of Asynchronous Programming (asyncio).",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Asynchronous Programming (asyncio) Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Asynchronous Programming (asyncio)+official+docs"
+                },
+                {
+                  "title": "Asynchronous Programming (asyncio) Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/asynchronousprogramming(asyncio)"
+                }
+              ]
+            },
+            {
+              "id": "task-p9-2",
+              "title": "Build a hands-on Asynchronous Programming (asyncio) mini-project",
+              "type": "coding",
+              "difficulty": "Medium",
+              "description": "Create a working standalone demo utilizing Asynchronous Programming (asyncio).",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Asynchronous Programming (asyncio) Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Asynchronous Programming (asyncio)+official+docs"
+                },
+                {
+                  "title": "Asynchronous Programming (asyncio) Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/asynchronousprogramming(asyncio)"
+                }
+              ]
+            },
+            {
+              "id": "task-p9-3",
+              "title": "Review Asynchronous Programming (asyncio) common interview questions",
+              "type": "interview",
+              "difficulty": "Medium",
+              "description": "Prepare for top 10 technical questions asked in Python Backend & API Engineer interviews.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Asynchronous Programming (asyncio) Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Asynchronous Programming (asyncio)+official+docs"
+                },
+                {
+                  "title": "Asynchronous Programming (asyncio) Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/asynchronousprogramming(asyncio)"
+                }
+              ]
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        },
+        {
+          "id": "milestone-phase-10",
+          "phase_number": 10,
+          "title": "Phase 10: Mastering Celery / Message Queues for Python Backend & API Engineer",
+          "skill_focus": "Celery / Message Queues",
+          "priority": "Medium",
+          "description": "Understand core principles, industry conventions, and practical implementation of Celery / Message Queues.",
+          "estimated_days": 5,
+          "practice_tasks": [
+            {
+              "id": "task-p10-1",
+              "title": "Study Celery / Message Queues Fundamentals and Syntax",
+              "type": "reading",
+              "difficulty": "Easy",
+              "description": "Read core chapters and understand fundamental building blocks of Celery / Message Queues.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Celery / Message Queues Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Celery / Message Queues+official+docs"
+                },
+                {
+                  "title": "Celery / Message Queues Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/celery/messagequeues"
+                }
+              ]
+            },
+            {
+              "id": "task-p10-2",
+              "title": "Build a hands-on Celery / Message Queues mini-project",
+              "type": "coding",
+              "difficulty": "Medium",
+              "description": "Create a working standalone demo utilizing Celery / Message Queues.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Celery / Message Queues Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Celery / Message Queues+official+docs"
+                },
+                {
+                  "title": "Celery / Message Queues Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/celery/messagequeues"
+                }
+              ]
+            },
+            {
+              "id": "task-p10-3",
+              "title": "Review Celery / Message Queues common interview questions",
+              "type": "interview",
+              "difficulty": "Medium",
+              "description": "Prepare for top 10 technical questions asked in Python Backend & API Engineer interviews.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Celery / Message Queues Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Celery / Message Queues+official+docs"
+                },
+                {
+                  "title": "Celery / Message Queues Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/celery/messagequeues"
+                }
+              ]
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        },
+        {
+          "id": "milestone-phase-11",
+          "phase_number": 11,
+          "title": "Phase 11: Mastering PyTest & TDD for Python Backend & API Engineer",
+          "skill_focus": "PyTest & TDD",
+          "priority": "Medium",
+          "description": "Understand core principles, industry conventions, and practical implementation of PyTest & TDD.",
+          "estimated_days": 5,
+          "practice_tasks": [
+            {
+              "id": "task-p11-1",
+              "title": "Study PyTest & TDD Fundamentals and Syntax",
+              "type": "reading",
+              "difficulty": "Easy",
+              "description": "Read core chapters and understand fundamental building blocks of PyTest & TDD.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "PyTest & TDD Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=PyTest & TDD+official+docs"
+                },
+                {
+                  "title": "PyTest & TDD Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/pytest&tdd"
+                }
+              ]
+            },
+            {
+              "id": "task-p11-2",
+              "title": "Build a hands-on PyTest & TDD mini-project",
+              "type": "coding",
+              "difficulty": "Medium",
+              "description": "Create a working standalone demo utilizing PyTest & TDD.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "PyTest & TDD Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=PyTest & TDD+official+docs"
+                },
+                {
+                  "title": "PyTest & TDD Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/pytest&tdd"
+                }
+              ]
+            },
+            {
+              "id": "task-p11-3",
+              "title": "Review PyTest & TDD common interview questions",
+              "type": "interview",
+              "difficulty": "Medium",
+              "description": "Prepare for top 10 technical questions asked in Python Backend & API Engineer interviews.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "PyTest & TDD Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=PyTest & TDD+official+docs"
+                },
+                {
+                  "title": "PyTest & TDD Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/pytest&tdd"
+                }
+              ]
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        },
+        {
+          "id": "milestone-phase-12",
+          "phase_number": 12,
+          "title": "Phase 12: Full-Stack Capstone & Interview Readiness",
+          "skill_focus": "Python Backend & API Engineer Capstone",
+          "priority": "High",
+          "description": "Bring all individual skills together into a production-grade deployed portfolio project that wows recruiters.",
+          "estimated_days": 10,
+          "practice_tasks": [
+            {
+              "id": "task-p12-1",
+              "title": "Architect End-to-End Python Backend & API Engineer Portfolio Project",
+              "type": "project",
+              "difficulty": "Hard",
+              "description": "Combine all mastered skills into a cohesive, deployed application showcasing full-stack capabilities.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "GitHub Portfolio Showcase Guide",
+                  "type": "article",
+                  "url": "https://github.com"
+                }
+              ]
+            },
+            {
+              "id": "task-p12-2",
+              "title": "Write Comprehensive Readme & System Architecture Diagram",
+              "type": "project",
+              "difficulty": "Medium",
+              "description": "Document your project architecture, API specs, database schema, and live demo link.",
+              "completed": false,
+              "resources": []
+            },
+            {
+              "id": "task-p12-3",
+              "title": "Comprehensive Technical Mock Interview",
+              "type": "interview",
+              "difficulty": "Hard",
+              "description": "Conduct simulated technical round covering all foundational skills, design trade-offs, and live coding.",
+              "completed": false,
+              "resources": []
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        }
+      ],
+      "total_tasks": 35,
+      "completed_tasks": 0,
+      "overall_progress": 0,
+      "last_updated": "2026-10-08T12:14:03.845008",
+      "_id": "98f6b603-a2e1-42cc-b207-60612f10b0dd"
+    },
+    {
+      "user_id": "guest-user",
+      "role_title": "Java Full Stack Developer",
+      "id": "bd2527c3-8785-4903-9d7b-7e9abc47456e",
+      "milestones": [
+        {
+          "id": "milestone-phase-1",
+          "phase_number": 1,
+          "title": "Phase 1: Production RESTful API Architecture",
+          "skill_focus": "REST APIs",
+          "priority": "High",
+          "description": "Design secure, idempotent, stateless RESTful APIs following HTTP specifications and industry standards.",
+          "estimated_days": 7,
+          "practice_tasks": [
+            {
+              "id": "task-p1-1",
+              "title": "Implement JWT Authentication & Refresh Tokens",
+              "type": "coding",
+              "difficulty": "Medium",
+              "description": "Secure API endpoints with Bearer tokens and role-based authorization.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "RESTful API Design Best Practices",
+                  "type": "article",
+                  "url": "https://restfulapi.net"
+                },
+                {
+                  "title": "OpenAPI / Swagger Specification",
+                  "type": "documentation",
+                  "url": "https://swagger.io/specification"
+                }
+              ]
+            },
+            {
+              "id": "task-p1-2",
+              "title": "Write API Documentation with Swagger / OpenAPI",
+              "type": "project",
+              "difficulty": "Easy",
+              "description": "Annotate endpoints with request/response schemas and examples.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "RESTful API Design Best Practices",
+                  "type": "article",
+                  "url": "https://restfulapi.net"
+                },
+                {
+                  "title": "OpenAPI / Swagger Specification",
+                  "type": "documentation",
+                  "url": "https://swagger.io/specification"
+                }
+              ]
+            },
+            {
+              "id": "task-p1-3",
+              "title": "Idempotency and HTTP Status Code Interview Prep",
+              "type": "interview",
+              "difficulty": "Medium",
+              "description": "Understand GET vs POST vs PUT vs PATCH vs DELETE semantics and safe methods.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "RESTful API Design Best Practices",
+                  "type": "article",
+                  "url": "https://restfulapi.net"
+                },
+                {
+                  "title": "OpenAPI / Swagger Specification",
+                  "type": "documentation",
+                  "url": "https://swagger.io/specification"
+                }
+              ]
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        },
+        {
+          "id": "milestone-phase-2",
+          "phase_number": 2,
+          "title": "Phase 2: Mastering Git for Java Full Stack Developer",
+          "skill_focus": "Git",
+          "priority": "High",
+          "description": "Understand core principles, industry conventions, and practical implementation of Git.",
+          "estimated_days": 7,
+          "practice_tasks": [
+            {
+              "id": "task-p2-1",
+              "title": "Study Git Fundamentals and Syntax",
+              "type": "reading",
+              "difficulty": "Easy",
+              "description": "Read core chapters and understand fundamental building blocks of Git.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Git Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Git+official+docs"
+                },
+                {
+                  "title": "Git Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/git"
+                }
+              ]
+            },
+            {
+              "id": "task-p2-2",
+              "title": "Build a hands-on Git mini-project",
+              "type": "coding",
+              "difficulty": "Medium",
+              "description": "Create a working standalone demo utilizing Git.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Git Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Git+official+docs"
+                },
+                {
+                  "title": "Git Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/git"
+                }
+              ]
+            },
+            {
+              "id": "task-p2-3",
+              "title": "Review Git common interview questions",
+              "type": "interview",
+              "difficulty": "Medium",
+              "description": "Prepare for top 10 technical questions asked in Java Full Stack Developer interviews.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Git Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Git+official+docs"
+                },
+                {
+                  "title": "Git Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/git"
+                }
+              ]
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        },
+        {
+          "id": "milestone-phase-3",
+          "phase_number": 3,
+          "title": "Phase 3: Containerization with Docker & Multi-Stage Builds",
+          "skill_focus": "Docker",
+          "priority": "High",
+          "description": "Containerize backend and frontend services for clean local reproduction and cloud deployments.",
+          "estimated_days": 7,
+          "practice_tasks": [
+            {
+              "id": "task-p3-1",
+              "title": "Write a multi-stage Dockerfile for your application",
+              "type": "coding",
+              "difficulty": "Medium",
+              "description": "Build an optimized small container image (under 150MB) using alpine base.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Docker Getting Started Guide",
+                  "type": "documentation",
+                  "url": "https://docs.docker.com/get-started"
+                },
+                {
+                  "title": "Docker Crash Course",
+                  "type": "video",
+                  "url": "https://www.youtube.com/watch?v=fqMOX6JJhGo"
+                }
+              ]
+            },
+            {
+              "id": "task-p3-2",
+              "title": "Configure multi-container orchestration with Docker Compose",
+              "type": "project",
+              "difficulty": "Medium",
+              "description": "Run API server, database (Postgres/Mongo), and Redis together with one command.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Docker Getting Started Guide",
+                  "type": "documentation",
+                  "url": "https://docs.docker.com/get-started"
+                },
+                {
+                  "title": "Docker Crash Course",
+                  "type": "video",
+                  "url": "https://www.youtube.com/watch?v=fqMOX6JJhGo"
+                }
+              ]
+            },
+            {
+              "id": "task-p3-3",
+              "title": "Docker Container vs Virtual Machine Interview Prep",
+              "type": "interview",
+              "difficulty": "Easy",
+              "description": "Clarify namespaces, cgroups, kernel sharing, and layer caching.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Docker Getting Started Guide",
+                  "type": "documentation",
+                  "url": "https://docs.docker.com/get-started"
+                },
+                {
+                  "title": "Docker Crash Course",
+                  "type": "video",
+                  "url": "https://www.youtube.com/watch?v=fqMOX6JJhGo"
+                }
+              ]
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        },
+        {
+          "id": "milestone-phase-4",
+          "phase_number": 4,
+          "title": "Phase 4: Mastering Hibernate/JPA for Java Full Stack Developer",
+          "skill_focus": "Hibernate/JPA",
+          "priority": "Medium",
+          "description": "Understand core principles, industry conventions, and practical implementation of Hibernate/JPA.",
+          "estimated_days": 5,
+          "practice_tasks": [
+            {
+              "id": "task-p4-1",
+              "title": "Study Hibernate/JPA Fundamentals and Syntax",
+              "type": "reading",
+              "difficulty": "Easy",
+              "description": "Read core chapters and understand fundamental building blocks of Hibernate/JPA.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Hibernate/JPA Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Hibernate/JPA+official+docs"
+                },
+                {
+                  "title": "Hibernate/JPA Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/hibernate/jpa"
+                }
+              ]
+            },
+            {
+              "id": "task-p4-2",
+              "title": "Build a hands-on Hibernate/JPA mini-project",
+              "type": "coding",
+              "difficulty": "Medium",
+              "description": "Create a working standalone demo utilizing Hibernate/JPA.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Hibernate/JPA Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Hibernate/JPA+official+docs"
+                },
+                {
+                  "title": "Hibernate/JPA Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/hibernate/jpa"
+                }
+              ]
+            },
+            {
+              "id": "task-p4-3",
+              "title": "Review Hibernate/JPA common interview questions",
+              "type": "interview",
+              "difficulty": "Medium",
+              "description": "Prepare for top 10 technical questions asked in Java Full Stack Developer interviews.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Hibernate/JPA Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Hibernate/JPA+official+docs"
+                },
+                {
+                  "title": "Hibernate/JPA Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/hibernate/jpa"
+                }
+              ]
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        },
+        {
+          "id": "milestone-phase-5",
+          "phase_number": 5,
+          "title": "Phase 5: Mastering Microservices for Java Full Stack Developer",
+          "skill_focus": "Microservices",
+          "priority": "Medium",
+          "description": "Understand core principles, industry conventions, and practical implementation of Microservices.",
+          "estimated_days": 5,
+          "practice_tasks": [
+            {
+              "id": "task-p5-1",
+              "title": "Study Microservices Fundamentals and Syntax",
+              "type": "reading",
+              "difficulty": "Easy",
+              "description": "Read core chapters and understand fundamental building blocks of Microservices.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Microservices Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Microservices+official+docs"
+                },
+                {
+                  "title": "Microservices Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/microservices"
+                }
+              ]
+            },
+            {
+              "id": "task-p5-2",
+              "title": "Build a hands-on Microservices mini-project",
+              "type": "coding",
+              "difficulty": "Medium",
+              "description": "Create a working standalone demo utilizing Microservices.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Microservices Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Microservices+official+docs"
+                },
+                {
+                  "title": "Microservices Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/microservices"
+                }
+              ]
+            },
+            {
+              "id": "task-p5-3",
+              "title": "Review Microservices common interview questions",
+              "type": "interview",
+              "difficulty": "Medium",
+              "description": "Prepare for top 10 technical questions asked in Java Full Stack Developer interviews.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Microservices Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Microservices+official+docs"
+                },
+                {
+                  "title": "Microservices Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/microservices"
+                }
+              ]
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        },
+        {
+          "id": "milestone-phase-6",
+          "phase_number": 6,
+          "title": "Phase 6: Mastering Maven/Gradle for Java Full Stack Developer",
+          "skill_focus": "Maven/Gradle",
+          "priority": "Medium",
+          "description": "Understand core principles, industry conventions, and practical implementation of Maven/Gradle.",
+          "estimated_days": 5,
+          "practice_tasks": [
+            {
+              "id": "task-p6-1",
+              "title": "Study Maven/Gradle Fundamentals and Syntax",
+              "type": "reading",
+              "difficulty": "Easy",
+              "description": "Read core chapters and understand fundamental building blocks of Maven/Gradle.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Maven/Gradle Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Maven/Gradle+official+docs"
+                },
+                {
+                  "title": "Maven/Gradle Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/maven/gradle"
+                }
+              ]
+            },
+            {
+              "id": "task-p6-2",
+              "title": "Build a hands-on Maven/Gradle mini-project",
+              "type": "coding",
+              "difficulty": "Medium",
+              "description": "Create a working standalone demo utilizing Maven/Gradle.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Maven/Gradle Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Maven/Gradle+official+docs"
+                },
+                {
+                  "title": "Maven/Gradle Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/maven/gradle"
+                }
+              ]
+            },
+            {
+              "id": "task-p6-3",
+              "title": "Review Maven/Gradle common interview questions",
+              "type": "interview",
+              "difficulty": "Medium",
+              "description": "Prepare for top 10 technical questions asked in Java Full Stack Developer interviews.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Maven/Gradle Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Maven/Gradle+official+docs"
+                },
+                {
+                  "title": "Maven/Gradle Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/maven/gradle"
+                }
+              ]
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        },
+        {
+          "id": "milestone-phase-7",
+          "phase_number": 7,
+          "title": "Phase 7: Mastering Unit Testing (JUnit) for Java Full Stack Developer",
+          "skill_focus": "Unit Testing (JUnit)",
+          "priority": "Medium",
+          "description": "Understand core principles, industry conventions, and practical implementation of Unit Testing (JUnit).",
+          "estimated_days": 5,
+          "practice_tasks": [
+            {
+              "id": "task-p7-1",
+              "title": "Study Unit Testing (JUnit) Fundamentals and Syntax",
+              "type": "reading",
+              "difficulty": "Easy",
+              "description": "Read core chapters and understand fundamental building blocks of Unit Testing (JUnit).",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Unit Testing (JUnit) Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Unit Testing (JUnit)+official+docs"
+                },
+                {
+                  "title": "Unit Testing (JUnit) Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/unittesting(junit)"
+                }
+              ]
+            },
+            {
+              "id": "task-p7-2",
+              "title": "Build a hands-on Unit Testing (JUnit) mini-project",
+              "type": "coding",
+              "difficulty": "Medium",
+              "description": "Create a working standalone demo utilizing Unit Testing (JUnit).",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Unit Testing (JUnit) Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Unit Testing (JUnit)+official+docs"
+                },
+                {
+                  "title": "Unit Testing (JUnit) Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/unittesting(junit)"
+                }
+              ]
+            },
+            {
+              "id": "task-p7-3",
+              "title": "Review Unit Testing (JUnit) common interview questions",
+              "type": "interview",
+              "difficulty": "Medium",
+              "description": "Prepare for top 10 technical questions asked in Java Full Stack Developer interviews.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Unit Testing (JUnit) Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Unit Testing (JUnit)+official+docs"
+                },
+                {
+                  "title": "Unit Testing (JUnit) Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/unittesting(junit)"
+                }
+              ]
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        },
+        {
+          "id": "milestone-phase-8",
+          "phase_number": 8,
+          "title": "Phase 8: Full-Stack Capstone & Interview Readiness",
+          "skill_focus": "Java Full Stack Developer Capstone",
+          "priority": "High",
+          "description": "Bring all individual skills together into a production-grade deployed portfolio project that wows recruiters.",
+          "estimated_days": 10,
+          "practice_tasks": [
+            {
+              "id": "task-p8-1",
+              "title": "Architect End-to-End Java Full Stack Developer Portfolio Project",
+              "type": "project",
+              "difficulty": "Hard",
+              "description": "Combine all mastered skills into a cohesive, deployed application showcasing full-stack capabilities.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "GitHub Portfolio Showcase Guide",
+                  "type": "article",
+                  "url": "https://github.com"
+                }
+              ]
+            },
+            {
+              "id": "task-p8-2",
+              "title": "Write Comprehensive Readme & System Architecture Diagram",
+              "type": "project",
+              "difficulty": "Medium",
+              "description": "Document your project architecture, API specs, database schema, and live demo link.",
+              "completed": false,
+              "resources": []
+            },
+            {
+              "id": "task-p8-3",
+              "title": "Comprehensive Technical Mock Interview",
+              "type": "interview",
+              "difficulty": "Hard",
+              "description": "Conduct simulated technical round covering all foundational skills, design trade-offs, and live coding.",
+              "completed": false,
+              "resources": []
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        }
+      ],
+      "total_tasks": 24,
+      "completed_tasks": 0,
+      "overall_progress": 0,
+      "last_updated": "2026-10-08T12:14:32.487936",
+      "_id": "9ffbaa95-d55e-4115-83b9-cdfef8a50460"
+    },
+    {
+      "user_id": "f9b5838d-2d76-4497-b268-f300a6a1418a",
+      "role_title": "Java Full Stack Developer",
+      "id": "8fddb44b-bc5e-4aeb-b224-8dd815525f24",
+      "milestones": [
+        {
+          "id": "milestone-phase-1",
+          "phase_number": 1,
+          "title": "Phase 1: Production RESTful API Architecture",
+          "skill_focus": "REST APIs",
+          "priority": "High",
+          "description": "Design secure, idempotent, stateless RESTful APIs following HTTP specifications and industry standards.",
+          "estimated_days": 7,
+          "practice_tasks": [
+            {
+              "id": "task-p1-1",
+              "title": "Implement JWT Authentication & Refresh Tokens",
+              "type": "coding",
+              "difficulty": "Medium",
+              "description": "Secure API endpoints with Bearer tokens and role-based authorization.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "RESTful API Design Best Practices",
+                  "type": "article",
+                  "url": "https://restfulapi.net"
+                },
+                {
+                  "title": "OpenAPI / Swagger Specification",
+                  "type": "documentation",
+                  "url": "https://swagger.io/specification"
+                }
+              ]
+            },
+            {
+              "id": "task-p1-2",
+              "title": "Write API Documentation with Swagger / OpenAPI",
+              "type": "project",
+              "difficulty": "Easy",
+              "description": "Annotate endpoints with request/response schemas and examples.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "RESTful API Design Best Practices",
+                  "type": "article",
+                  "url": "https://restfulapi.net"
+                },
+                {
+                  "title": "OpenAPI / Swagger Specification",
+                  "type": "documentation",
+                  "url": "https://swagger.io/specification"
+                }
+              ]
+            },
+            {
+              "id": "task-p1-3",
+              "title": "Idempotency and HTTP Status Code Interview Prep",
+              "type": "interview",
+              "difficulty": "Medium",
+              "description": "Understand GET vs POST vs PUT vs PATCH vs DELETE semantics and safe methods.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "RESTful API Design Best Practices",
+                  "type": "article",
+                  "url": "https://restfulapi.net"
+                },
+                {
+                  "title": "OpenAPI / Swagger Specification",
+                  "type": "documentation",
+                  "url": "https://swagger.io/specification"
+                }
+              ]
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        },
+        {
+          "id": "milestone-phase-2",
+          "phase_number": 2,
+          "title": "Phase 2: Relational Database Design & Advanced SQL",
+          "skill_focus": "SQL",
+          "priority": "High",
+          "description": "Master SQL querying, schema normalization (3NF), joins, indexing, and transactional integrity (ACID).",
+          "estimated_days": 7,
+          "practice_tasks": [
+            {
+              "id": "task-p2-1",
+              "title": "Solve 5 SQL LeetCode Easy & Medium problems",
+              "type": "coding",
+              "difficulty": "Medium",
+              "description": "Practice INNER/LEFT JOINs, GROUP BY, HAVING, and window functions (RANK, DENSE_RANK).",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "SQL Tutorial (PostgreSQL)",
+                  "type": "documentation",
+                  "url": "https://www.postgresqltutorial.com"
+                },
+                {
+                  "title": "Mode Analytics SQL Tutorial",
+                  "type": "article",
+                  "url": "https://mode.com/sql-tutorial"
+                },
+                {
+                  "title": "LeetCode Database Problem Set",
+                  "type": "coding",
+                  "url": "https://leetcode.com/problemset/database"
+                }
+              ]
+            },
+            {
+              "id": "task-p2-2",
+              "title": "Design a Normalized E-Commerce Database Schema",
+              "type": "project",
+              "difficulty": "Medium",
+              "description": "Create Users, Products, Orders, OrderItems tables with foreign keys and unique constraints.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "SQL Tutorial (PostgreSQL)",
+                  "type": "documentation",
+                  "url": "https://www.postgresqltutorial.com"
+                },
+                {
+                  "title": "Mode Analytics SQL Tutorial",
+                  "type": "article",
+                  "url": "https://mode.com/sql-tutorial"
+                },
+                {
+                  "title": "LeetCode Database Problem Set",
+                  "type": "coding",
+                  "url": "https://leetcode.com/problemset/database"
+                }
+              ]
+            },
+            {
+              "id": "task-p2-3",
+              "title": "Explain Indexing and B-Tree Query Optimization",
+              "type": "interview",
+              "difficulty": "Hard",
+              "description": "Explain how indexes speed up searches and trade-offs on INSERT/UPDATE.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "SQL Tutorial (PostgreSQL)",
+                  "type": "documentation",
+                  "url": "https://www.postgresqltutorial.com"
+                },
+                {
+                  "title": "Mode Analytics SQL Tutorial",
+                  "type": "article",
+                  "url": "https://mode.com/sql-tutorial"
+                },
+                {
+                  "title": "LeetCode Database Problem Set",
+                  "type": "coding",
+                  "url": "https://leetcode.com/problemset/database"
+                }
+              ]
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        },
+        {
+          "id": "milestone-phase-3",
+          "phase_number": 3,
+          "title": "Phase 3: Mastering Hibernate/JPA for Java Full Stack Developer",
+          "skill_focus": "Hibernate/JPA",
+          "priority": "Medium",
+          "description": "Understand core principles, industry conventions, and practical implementation of Hibernate/JPA.",
+          "estimated_days": 5,
+          "practice_tasks": [
+            {
+              "id": "task-p3-1",
+              "title": "Study Hibernate/JPA Fundamentals and Syntax",
+              "type": "reading",
+              "difficulty": "Easy",
+              "description": "Read core chapters and understand fundamental building blocks of Hibernate/JPA.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Hibernate/JPA Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Hibernate/JPA+official+docs"
+                },
+                {
+                  "title": "Hibernate/JPA Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/hibernate/jpa"
+                }
+              ]
+            },
+            {
+              "id": "task-p3-2",
+              "title": "Build a hands-on Hibernate/JPA mini-project",
+              "type": "coding",
+              "difficulty": "Medium",
+              "description": "Create a working standalone demo utilizing Hibernate/JPA.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Hibernate/JPA Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Hibernate/JPA+official+docs"
+                },
+                {
+                  "title": "Hibernate/JPA Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/hibernate/jpa"
+                }
+              ]
+            },
+            {
+              "id": "task-p3-3",
+              "title": "Review Hibernate/JPA common interview questions",
+              "type": "interview",
+              "difficulty": "Medium",
+              "description": "Prepare for top 10 technical questions asked in Java Full Stack Developer interviews.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Hibernate/JPA Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Hibernate/JPA+official+docs"
+                },
+                {
+                  "title": "Hibernate/JPA Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/hibernate/jpa"
+                }
+              ]
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        },
+        {
+          "id": "milestone-phase-4",
+          "phase_number": 4,
+          "title": "Phase 4: Mastering Maven/Gradle for Java Full Stack Developer",
+          "skill_focus": "Maven/Gradle",
+          "priority": "Medium",
+          "description": "Understand core principles, industry conventions, and practical implementation of Maven/Gradle.",
+          "estimated_days": 5,
+          "practice_tasks": [
+            {
+              "id": "task-p4-1",
+              "title": "Study Maven/Gradle Fundamentals and Syntax",
+              "type": "reading",
+              "difficulty": "Easy",
+              "description": "Read core chapters and understand fundamental building blocks of Maven/Gradle.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Maven/Gradle Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Maven/Gradle+official+docs"
+                },
+                {
+                  "title": "Maven/Gradle Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/maven/gradle"
+                }
+              ]
+            },
+            {
+              "id": "task-p4-2",
+              "title": "Build a hands-on Maven/Gradle mini-project",
+              "type": "coding",
+              "difficulty": "Medium",
+              "description": "Create a working standalone demo utilizing Maven/Gradle.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Maven/Gradle Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Maven/Gradle+official+docs"
+                },
+                {
+                  "title": "Maven/Gradle Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/maven/gradle"
+                }
+              ]
+            },
+            {
+              "id": "task-p4-3",
+              "title": "Review Maven/Gradle common interview questions",
+              "type": "interview",
+              "difficulty": "Medium",
+              "description": "Prepare for top 10 technical questions asked in Java Full Stack Developer interviews.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Maven/Gradle Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Maven/Gradle+official+docs"
+                },
+                {
+                  "title": "Maven/Gradle Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/maven/gradle"
+                }
+              ]
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        },
+        {
+          "id": "milestone-phase-5",
+          "phase_number": 5,
+          "title": "Phase 5: Mastering Unit Testing (JUnit) for Java Full Stack Developer",
+          "skill_focus": "Unit Testing (JUnit)",
+          "priority": "Medium",
+          "description": "Understand core principles, industry conventions, and practical implementation of Unit Testing (JUnit).",
+          "estimated_days": 5,
+          "practice_tasks": [
+            {
+              "id": "task-p5-1",
+              "title": "Study Unit Testing (JUnit) Fundamentals and Syntax",
+              "type": "reading",
+              "difficulty": "Easy",
+              "description": "Read core chapters and understand fundamental building blocks of Unit Testing (JUnit).",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Unit Testing (JUnit) Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Unit Testing (JUnit)+official+docs"
+                },
+                {
+                  "title": "Unit Testing (JUnit) Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/unittesting(junit)"
+                }
+              ]
+            },
+            {
+              "id": "task-p5-2",
+              "title": "Build a hands-on Unit Testing (JUnit) mini-project",
+              "type": "coding",
+              "difficulty": "Medium",
+              "description": "Create a working standalone demo utilizing Unit Testing (JUnit).",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Unit Testing (JUnit) Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Unit Testing (JUnit)+official+docs"
+                },
+                {
+                  "title": "Unit Testing (JUnit) Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/unittesting(junit)"
+                }
+              ]
+            },
+            {
+              "id": "task-p5-3",
+              "title": "Review Unit Testing (JUnit) common interview questions",
+              "type": "interview",
+              "difficulty": "Medium",
+              "description": "Prepare for top 10 technical questions asked in Java Full Stack Developer interviews.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "Unit Testing (JUnit) Official Documentation",
+                  "type": "documentation",
+                  "url": "https://www.google.com/search?q=Unit Testing (JUnit)+official+docs"
+                },
+                {
+                  "title": "Unit Testing (JUnit) Practical Guide",
+                  "type": "article",
+                  "url": "https://dev.to/t/unittesting(junit)"
+                }
+              ]
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        },
+        {
+          "id": "milestone-phase-6",
+          "phase_number": 6,
+          "title": "Phase 6: Full-Stack Capstone & Interview Readiness",
+          "skill_focus": "Java Full Stack Developer Capstone",
+          "priority": "High",
+          "description": "Bring all individual skills together into a production-grade deployed portfolio project that wows recruiters.",
+          "estimated_days": 10,
+          "practice_tasks": [
+            {
+              "id": "task-p6-1",
+              "title": "Architect End-to-End Java Full Stack Developer Portfolio Project",
+              "type": "project",
+              "difficulty": "Hard",
+              "description": "Combine all mastered skills into a cohesive, deployed application showcasing full-stack capabilities.",
+              "completed": false,
+              "resources": [
+                {
+                  "title": "GitHub Portfolio Showcase Guide",
+                  "type": "article",
+                  "url": "https://github.com"
+                }
+              ]
+            },
+            {
+              "id": "task-p6-2",
+              "title": "Write Comprehensive Readme & System Architecture Diagram",
+              "type": "project",
+              "difficulty": "Medium",
+              "description": "Document your project architecture, API specs, database schema, and live demo link.",
+              "completed": false,
+              "resources": []
+            },
+            {
+              "id": "task-p6-3",
+              "title": "Comprehensive Technical Mock Interview",
+              "type": "interview",
+              "difficulty": "Hard",
+              "description": "Conduct simulated technical round covering all foundational skills, design trade-offs, and live coding.",
+              "completed": false,
+              "resources": []
+            }
+          ],
+          "completed": false,
+          "progress_percent": 0
+        }
+      ],
+      "total_tasks": 18,
+      "completed_tasks": 0,
+      "overall_progress": 0,
+      "last_updated": "2026-10-08T12:17:37.756509",
+      "_id": "4e01891d-06fa-4cd7-935f-53300f9ad850"
+    }
+  ],
+  "resumes": [
+    {
+      "user_id": "guest-user",
+      "_id": "ae437179-b9e0-472f-8acc-f898de66ac43",
+      "filename": "sample_student_resume.pdf",
+      "skills": [
+        "Algorithms",
+        "CSS",
+        "CSS3",
+        "Data Structures",
+        "Git",
+        "HTML5",
+        "HTML5 & CSS3",
+        "JUnit",
+        "Java",
+        "JavaScript",
+        "JavaScript (ES6+)",
+        "Microservices",
+        "MySQL",
+        "Node.js",
+        "OOP",
+        "Object-Oriented Programming",
+        "Oracle",
+        "PostgreSQL",
+        "Python",
+        "REST APIs",
+        "React",
+        "React.js",
+        "SQL",
+        "Spring Boot",
+        "Spring Framework",
+        "Tailwind CSS"
+      ],
+      "education": [
+        {
+          "degree": "Rahul Sharma - Computer Science Undergraduate",
+          "institution": "University / College",
+          "year": "Present",
+          "score": "CGPA: 8.0+"
+        },
+        {
+          "degree": "Email: rahul.sharma@example.com | Bengaluru, India",
+          "institution": "University / College",
+          "year": "Present",
+          "score": "CGPA: 8.0+"
+        },
+        {
+          "degree": "Concepts: Object-Oriented Programming (OOP), Data Structures and Algorithms, Dat",
+          "institution": "University / College",
+          "year": "Present",
+          "score": "CGPA: 8.0+"
+        }
+      ],
+      "projects": [
+        {
+          "title": "1. E-Commerce Order Portal:",
+          "description": "Full-stack project implementing scalable logic, data persistence, and interactive user interfaces.",
+          "technologies": [
+            "CSS",
+            "Microservices",
+            "MySQL",
+            "Node.js"
+          ]
+        },
+        {
+          "title": "Built dynamic responsive customer catalog using React.js and Tailwind ",
+          "description": "Full-stack project implementing scalable logic, data persistence, and interactive user interfaces.",
+          "technologies": [
+            "CSS",
+            "Microservices",
+            "MySQL",
+            "Node.js"
+          ]
+        },
+        {
+          "title": "2. Real-Time Chat System:",
+          "description": "Full-stack project implementing scalable logic, data persistence, and interactive user interfaces.",
+          "technologies": [
+            "CSS",
+            "Microservices",
+            "MySQL",
+            "Node.js"
+          ]
+        }
+      ],
+      "certifications": [
+        "HackerRank Problem Solving"
+      ],
+      "experience": [
+        {
+          "role": "Software Engineering Intern at CloudTech Labs (3 Months)",
+          "company": "Tech Company / Academic Lab",
+          "duration": "3-6 Months",
+          "description": "Built production features, handled bugs, and collaborated across development lifecycle."
+        }
+      ],
+      "summary": "Sample CS student resume loaded for demonstration.",
+      "extracted_at": "2026-10-08T12:14:56.003464"
+    },
+    {
+      "user_id": "f9b5838d-2d76-4497-b268-f300a6a1418a",
+      "_id": "20728264-a7c0-4867-a6d4-88484b558587",
+      "filename": "Sandhiya B Resume (1).pdf",
+      "skills": [
+        "C",
+        "CSS",
+        "Git",
+        "GitHub",
+        "HTML",
+        "HTML5 & CSS3",
+        "Java"
+      ],
+      "education": [
+        {
+          "degree": "Aspiring MERN Stack Developer and Computer Science student with a passion for bu",
+          "institution": "University / College",
+          "year": "Present",
+          "score": "CGPA: 8.0+"
+        },
+        {
+          "degree": "9159959465 sandhiyabsv@gmail.com Dharapuram, Tiruppur",
+          "institution": "University / College",
+          "year": "Present",
+          "score": "CGPA: 8.0+"
+        },
+        {
+          "degree": "B.E. Computer Science and Engineering",
+          "institution": "University / College",
+          "year": "Present",
+          "score": "CGPA: 8.0+"
+        }
+      ],
+      "projects": [
+        {
+          "title": "9159959465 sandhiyabsv@gmail.com Dharapuram, Tiruppur",
+          "description": "Full-stack project implementing scalable logic, data persistence, and interactive user interfaces.",
+          "technologies": [
+            "C"
+          ]
+        }
+      ],
+      "certifications": [
+        "Higher Secondary Certification (HSC ) : 90.3% | 2025",
+        "Secondary School Leaving Certificate (SSLC) : 93.8% | 2023",
+        "CERTIFICATES"
+      ],
+      "experience": [
+        {
+          "role": "Student Developer",
+          "company": "Tech Company / Academic Lab",
+          "duration": "3-6 Months",
+          "description": "Built production features, handled bugs, and collaborated across development lifecycle."
+        },
+        {
+          "role": "Eager to apply technical knowledge through projects and grow",
+          "company": "Tech Company / Academic Lab",
+          "duration": "3-6 Months",
+          "description": "Built production features, handled bugs, and collaborated across development lifecycle."
+        }
+      ],
+      "summary": "Extracted through CareerMind AI High-Precision Semantic NLP Engine.",
+      "extracted_at": "2026-10-08T12:16:53.983067",
+      "raw_text_preview": "SANDHIYA B\n     Student Developer      \nOBJECTIVE\nAspiring MERN Stack Developer and Computer Science student with a passion for building modern web\napplications. Quick learner with strong problem-solving skills and a commitment to continuous learning.\nEager to apply technical knowledge through projects and grow as a full-stack developer.\n9159959465 sandhiyabsv@gmail.com Dharapuram, Tiruppur \nEDUCATION\nK.S.R College of Engineering \n2025 -2029  |  CGPA : 9.29 (upto current semester)\nB.E. Computer "
+    }
+  ],
+  "users": [
+    {
+      "_id": "f9b5838d-2d76-4497-b268-f300a6a1418a",
+      "name": "Mohana S",
+      "email": "mohanas2912@gmail.com",
+      "hashed_password": "84ca8155da4e12d2bebde5cce6fba191$ae66a139c00b66fae6481133111f92d3e69389300b2a08a721fac9dd96b81be7",
+      "target_role": "java-fullstack",
+      "created_at": "2026-10-08T12:16:22.152665"
+    }
+  ]
+}
