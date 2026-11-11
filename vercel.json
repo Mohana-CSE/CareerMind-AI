@@ -1,0 +1,9 @@
+
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://careermind-ai-f4ju.onrender.com/api/:path*"
+    }
+  ]
+}
