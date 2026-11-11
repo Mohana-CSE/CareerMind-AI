@@ -7,6 +7,14 @@
       "createdAt": "2026-11-11T15:14:30.152Z",
       "updatedAt": "2026-11-11T15:14:30.152Z",
       "_id": "6af48656b52e9ab6365ae92e"
+    },
+    {
+      "name": "Mohana",
+      "email": "mohanas2912@gmail.com",
+      "passwordHash": "$2b$10$.BQB0g.VenXabq7qrpeELubjpBNB1qrLF7zrVfIb4J6CeS.bfvPuO",
+      "createdAt": "2026-11-11T16:12:43.662Z",
+      "updatedAt": "2026-11-11T16:12:43.662Z",
+      "_id": "6af493fbd1e83bf2b4b45601"
     }
   ],
   "resumes": [
@@ -7986,6 +7994,16 @@
       ],
       "updatedAt": "2026-11-11T15:14:30.286Z",
       "_id": "6af48656b52e9ab6365ae92f"
+    },
+    {
+      "userId": "6af493fbd1e83bf2b4b45601",
+      "skillStatus": {},
+      "projectStatus": {},
+      "completedRoadmapSteps": [
+        1
+      ],
+      "updatedAt": "2026-11-11T16:12:43.773Z",
+      "_id": "6af493fbd1e83bf2b4b45602"
     }
   ],
   "assessments": [],
